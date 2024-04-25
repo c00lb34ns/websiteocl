@@ -1,0 +1,57 @@
+	.padje {
+	padding-top: 65px;
+	padding-bottom: 25px;
+	}
+	
+	.padie {
+	padding-top: 25px;
+	padding-bottom: 25px;
+	}
+	
+	.padke {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	}
+	
+	.arts {
+	color: white;
+	}
+	
+	.bckg {
+	background-color: #eff8ff;
+	}
+	
+	.bckgg {
+	background-color: #1687a7;
+	}
+	
+	.kleur {
+	color: black;
+	}
+	
+	.parallaxx {
+	background-image: url(foto/voorkant.jpg);
+	height: 500px;
+
+
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	}	
+	
+	.marpad {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding: 0px;
+	}
+	
+	.bglinks {
+	background-color: #1687a7;
+	}
+	
+	.bgrechts {
+	background-color: #276678;
+	}
